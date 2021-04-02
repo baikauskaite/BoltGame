@@ -1,0 +1,14 @@
+{ "columns":8,
+ "image":".\/cityBackground.png",
+ "imageheight":360,
+ "imagewidth":320,
+ "margin":0,
+ "name":"cityBackground",
+ "spacing":0,
+ "tilecount":72,
+ "tiledversion":"1.4.3",
+ "tileheight":40,
+ "tilewidth":40,
+ "type":"tileset",
+ "version":1.4
+}

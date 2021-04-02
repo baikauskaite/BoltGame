@@ -1,0 +1,14 @@
+{ "columns":6,
+ "image":".\/cityObjects.png",
+ "imageheight":240,
+ "imagewidth":240,
+ "margin":0,
+ "name":"cityObjects",
+ "spacing":0,
+ "tilecount":36,
+ "tiledversion":"1.4.3",
+ "tileheight":40,
+ "tilewidth":40,
+ "type":"tileset",
+ "version":1.4
+}
