@@ -27,7 +27,7 @@ To play the game, download the folder for your appropriate OS from the folder `E
 Use arrow keys to control the character.
 
 
-## Pictures
+## Screenshots
 
 **Game play**
 
