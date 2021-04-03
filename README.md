@@ -29,7 +29,7 @@ Use arrow keys to control the character.
 
 ## Screenshots
 
-**Game play**
+**Playing the game**
 
 ![Level1](https://user-images.githubusercontent.com/73688133/113470456-7ffc2600-945e-11eb-85d5-e71df8b725b3.png)
 
