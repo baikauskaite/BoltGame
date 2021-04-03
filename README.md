@@ -10,7 +10,7 @@ The fulfilled project requirements include:
 	* The map consists of tiles
 	* The sprite avoids obstacles
 	* The sprite moves with physics and is animated
-	* A tilemap editor
+	* A tiled map editor
 
 Art used for this game:
 
