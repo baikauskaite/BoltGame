@@ -1,6 +1,6 @@
 This program has been written as a project during the second semester of the BSc Software Engineering degree in Vilnius University.
 
-# PlatformerGame
+# BoltGame
 
 The fulfilled project requirements include:
 
