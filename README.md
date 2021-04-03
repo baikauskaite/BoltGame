@@ -39,6 +39,6 @@ Use arrow keys to control the character.
 ![Level2Screen](https://user-images.githubusercontent.com/73688133/113470459-87233400-945e-11eb-8e98-eaea135d7e0b.png)
 
 
-**Tilemap editor**
+**Tiled map editor**
 
 ![TileMapEditor](https://user-images.githubusercontent.com/73688133/113470460-89858e00-945e-11eb-947b-67f127553b30.png)
