@@ -18,8 +18,16 @@ Use arrow keys to control the character.
 
 ## Pictures
 
+**Game play**
+
 ![Level1](https://user-images.githubusercontent.com/73688133/113470456-7ffc2600-945e-11eb-85d5-e71df8b725b3.png)
 
+
+**Screen between levels 1 and 2**
+
 ![Level2Screen](https://user-images.githubusercontent.com/73688133/113470459-87233400-945e-11eb-8e98-eaea135d7e0b.png)
+
+
+**Tilemap editor**
 
 ![TileMapEditor](https://user-images.githubusercontent.com/73688133/113470460-89858e00-945e-11eb-947b-67f127553b30.png)
