@@ -22,7 +22,7 @@ Art used for this game:
 
 *To be able to play, Java 8 or newer version is required to be installed!*
 
-To play the game, download the folder for your appropriate OS from the folder `Executables`. For example, for Windows 64-bit, download the `application.windows64` folder and launch `boltGame.exe`.
+To play the game, download the folder for your appropriate OS from the folder `Executables`. For example, for Windows 64-bit, download the `application.windows64.zip` and launch `boltGame.exe`.
 
 Use arrow keys to control the character.
 
