@@ -2,14 +2,25 @@ This program has been written as a project during the second semester of the BSc
 
 # PlatformerGame
 
+The fulfilled project requirements include:
+
+	* The coordinates of the map are writen in the `csv` format
+	* The map of the game is bigger than the screen size
+	* Once the goal is reached, the level changes
+	* The map consists of tiles
+	* The sprite avoids obstacles
+	* The sprite moves with physics and is animated
+	* A tilemap editor
+
 Art used for this game:
+
 * [Sprite](https://www.gameart2d.com/cat-and-dog-free-sprites.html)
 * [Tileset](https://opengameart.org/content/city-pixel-tileset)
-* "Bolt" and "Wolt" logos
+
 
 ## How to run the program
 
-To be able to play, Java 8 or newer version is required to be installed!
+*To be able to play, Java 8 or newer version is required to be installed!*
 
 To play the game, download the folder for your appropriate OS from the folder `Executables`. For example, for Windows 64-bit, download the `application.windows64` folder and launch `boltGame.exe`.
 
